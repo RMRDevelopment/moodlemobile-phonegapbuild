@@ -6,14 +6,14 @@
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>Moodle</name>
+    <name>GSNEO Nook</name>
 
     <description>
-        Moodle official app
+        GSNEO Nook
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://www.rmrdevelopment.com" email="reed@rmrdevelopment.com">
+        RMR Development.com
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
