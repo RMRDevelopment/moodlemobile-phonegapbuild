@@ -114,7 +114,7 @@ var CoreLoginSitePage = /** @class */ (function () {
         this.displayAsButtons = false;
         this.showKeyboard = false;
         this.showKeyboard = !!navParams.get('showKeyboard');
-        var url = 'http://gsmoodledev.rmrdevelopment.com';
+        var url = 'https://training.gsneo.org';
         // Load fixed sites if they're set.
         if (this.loginHelper.hasSeveralFixedSites()) {
             this.fixedSites = this.loginHelper.getFixedSites();
